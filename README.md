@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alexander Gutierrez</h1>
 
 
-- 📫 How to reach me: alexzgut.dev@gmail.com
+- 📫 How to reach me: johnalexander.gutierrezgaviria@outlook.com
 - ❤️ Passionate about crafting clean and efficient code
 
 <h3 align="left">Languages and Tools:</h3>
