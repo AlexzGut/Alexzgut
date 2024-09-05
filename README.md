@@ -36,7 +36,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
   </a> 
 </p>
-<h3 align="left">Developer Tools I used in a day to day basis</h3>
+<h3 align="left">Developer Tools I used on a daily basis</h3>
 <p>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="visual studio code" width="40" height="40"/> 
