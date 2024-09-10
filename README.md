@@ -7,53 +7,28 @@
 - ❤️ Passionate about crafting clean and efficient code
 - 💬 Ask me about: Full-Stack Development, API Development, and Databases.
 - 📫 How to reach me: johnalexander.gutierrezgaviria@outlook.com
-- ⚡I love to mentor and collaborate on interesting projects that help students and developers grow!
+- 🥅 2025 Goals: Apply my programming skills in a professional environment
+- ⚡ I love to mentor and collaborate on interesting projects that help students and developers grow!
 
 <h3 align="left">🚀 Skills & Technologies</h3>
-<p align="left"> 
-  <a href="https://dev.java/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="react" width="40" height="40"/> 
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,nodejs,mysql,mongodb" />
   </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/nodejs.png" alt="nodejs" width="40" height="40"/> 
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a>  
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/mysql.png" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/mongodb.png" alt="mongodb" width="40" height="40"/> 
-  </a> 
 </p>
 <h3 align="left">Developer Tools I used on a daily basis</h3>
-<p>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="visual studio code" width="40" height="40"/> 
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
   </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/git.png" alt="git" width="40" height="40"/> 
-  </a>  
-  <a href="https://github.com/AlexzGut" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original-wordmark.svg" alt="postman" width="40" height="40"/> 
-  </a> 
 </p>
 
-- Others: MVC Architecture, Authentication & Authorization, Unit Testing, RESTful APIs
+**Others:** MVC Architecture, Authentication & Authorization, Unit Testing, RESTful APIs
 
-📫 Let's Connect
+### My GitHub Stats:
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexzgut&theme=tokyonight&show_icons=true&hide=prs&include_all_commits=true&hide_rank=true" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexzgut&layout=compact&theme=tokyonight&langs_count=6&cache_seconds=1800" />
+
+#### 📫 Let's Connect
 [LinkedIn](https://www.linkedin.com/in/alexander-gutierrez-g/)
 
