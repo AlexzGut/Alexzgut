@@ -25,10 +25,6 @@
 
 **Others:** MVC Architecture, Authentication & Authorization, Unit Testing, RESTful APIs
 
-### My GitHub Stats:
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexzgut&theme=tokyonight&show_icons=true&hide=prs&include_all_commits=true&hide_rank=true" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexzgut&layout=compact&theme=tokyonight&langs_count=6&cache_seconds=1800" />
-
 #### 📫 Let's Connect
 [LinkedIn](https://www.linkedin.com/in/alexander-gutierrez-g/)
 
