@@ -12,13 +12,13 @@
 
 <h3 align="left">🚀 Skills & Technologies</h3>
 <p align="left">
-  <a href="https://skillicons.dev">
+  <a href="#">
     <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,nodejs,mysql,mongodb" />
   </a>
 </p>
 <h3 align="left">Developer Tools I used on a daily basis</h3>
 <p align="left">
-  <a href="https://skillicons.dev">
+  <a href="#">
     <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
   </a>
 </p>
