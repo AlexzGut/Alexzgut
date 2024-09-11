@@ -10,10 +10,10 @@
 - 🥅 2025 Goals: Apply my programming skills in a professional environment
 - ⚡ I love to mentor and collaborate on interesting projects that help students and developers grow!
 
-<h3 align="left">🚀 Skills & Technologies</h3>
+<h3 align="left">🚀 Languages & Technologies</h3>
 <p align="left">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,nodejs,mysql,mongodb" />
+    <img src="https://skillicons.dev/icons?i=java,python,mysql,javascript,html,css,nodejs,express,mongodb" />
   </a>
 </p>
 <h3 align="left">Developer Tools I used on a daily basis</h3>
